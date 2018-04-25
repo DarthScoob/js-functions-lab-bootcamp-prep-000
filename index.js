@@ -5,3 +5,6 @@ function happyHolidays() {
 function happyHolidaysTo(name) {
   return(`$name`);
 }
+function happyHollidayto(holiday, name) {
+  
+}
